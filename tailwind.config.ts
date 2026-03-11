@@ -65,8 +65,8 @@ export default {
 				}
 			},
 			fontFamily: {
-				cormorant: ['Cormorant', 'serif'],
-				golos: ['Golos Text', 'sans-serif'],
+				playfair: ['Playfair Display', 'serif'],
+				montserrat: ['Montserrat', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
